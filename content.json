@@ -1,0 +1,16 @@
+{
+  "title": "SparkPacket — Profile",
+  "subtitle": "Retro terminal personal site",
+  "intro": "test intro",
+  "sections": [
+    {
+      "heading": "About",
+      "text": "I tinker with stuff. I like retro stuff, terminals and hexadecimal, coding, science, and more.",
+      "images": ["portrait.png"]
+    }
+  ],
+  "links": [
+    { "label": "Home", "href": "./" },
+    { "label": "Example1", "href": "./example1/" }
+  ]
+}
