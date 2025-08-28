@@ -11,7 +11,7 @@
   ],
   "links": [
     { "label": "YOU ARE HERE - Home", "href": "./" },
-    { "label": "Location and Communication", "href": "/-location/" }
+    { "label": "Location and Communication", "href": "/profile-location/" },
     { "label": "Main Website Hub", "href": "//" }
   ]
 }
