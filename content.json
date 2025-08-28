@@ -10,7 +10,7 @@
     }
   ],
   "links": [
-    { "label": "Home", "href": "./" },
-    { "label": "Location and Communication", "href": "-location/" }
+    { "label": "YOU ARE HERE - Home", "href": "./" },
+    { "label": "Location and Communication", "href": "/-location/" }
   ]
 }
