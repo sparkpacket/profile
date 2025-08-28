@@ -11,6 +11,6 @@
   ],
   "links": [
     { "label": "Home", "href": "./" },
-    { "label": "Example1", "href": "./example1/" }
+    { "label": "Location and Communication", "href": "-location/" }
   ]
 }
